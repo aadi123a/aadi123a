@@ -1,4 +1,40 @@
-## Hi there 👋
+## # Hi 👋 I'm Adarsh Mishra
+
+🎓 TY Computer Science Student
+
+💻 Aspiring Full Stack Web Developer
+
+🌱 Currently Learning
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* Django
+
+🚀 2026 Goals
+
+* Complete CS50 Web
+* Build 10+ Projects
+* Secure a Web Development Internship
+
+## Tech Stack
+
+HTML | CSS | JavaScript | Python | Git | GitHub
+
+## Current Projects
+
+* Portfolio Website
+* To-Do App
+* Calculator
+* Weather App
+
+## Connect With Me
+
+* GitHub: https://github.com/aadi123a
+
+⭐ Always learning and building.
+
 
 <!--
 **aadi123a/aadi123a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
