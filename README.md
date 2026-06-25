@@ -6,11 +6,11 @@
 
 🌱 Currently Learning
 
-* HTML
-* CSS
-* JavaScript
-* Python
-* Django
+* CS50 Web Programming
+* Frontend Development (HTML, CSS, JavaScript)
+* Python & Django
+* Git and GitHub
+
 
 🚀 2026 Goals
 
