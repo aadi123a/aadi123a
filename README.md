@@ -18,9 +18,15 @@
 * Build 10+ Projects
 * Secure a Web Development Internship
 
-## Tech Stack
+## 🛠 Tech Stack
 
-HTML | CSS | JavaScript | Python | Git | GitHub
+* HTML5
+* CSS3
+* JavaScript
+* Python
+* Git
+* GitHub
+
 
 ## Current Projects
 
